@@ -5,7 +5,9 @@ body {
 }
 
 img {
-    width: 100%;
+  position: absolute;
+    width: 100vw;
+    height: 100vh;
 }
 
 ::-webkit-scrollbar {
