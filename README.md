@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=700&height=40&color=3d77bb&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Front+End+Developer&font=Fira%20Code&center=true&width=700&height=40&color=3d77bb&vCenter=true&size=30">
 </p>
 
 <br>
