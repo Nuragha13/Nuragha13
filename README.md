@@ -62,7 +62,7 @@
         <h4>Follow me around the web;</h4>
     </div>
     <div>
-        <a href="https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/" target="_blank">
+        <a href="[https://www.linkedin.com/in/muhammed-y%C3%BCceda%C4%9F-187533250/](https://www.linkedin.com/in/nuragha-khalilov-bb8214255/)" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <a href="https://medium.com/@muhammedyucedag" target="_blank"  rel="noopener">
